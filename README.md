@@ -1,5 +1,5 @@
-# Quantum
-10 lines of code to hack BTC
+#Quantum
+10 lines of code to hack BTC with a quantum computer.
 
 
 //
