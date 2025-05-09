@@ -1,5 +1,5 @@
 #Quantum-BTC-run = 
-10 lines of code to hack BTC with a quantum computer.
+10 lines of code = hack BTC with a quantum computer.
 
 ![image](https://user-images.githubusercontent.com/51065039/209723930-4aa51a81-6ca8-42d1-92cb-21819683f163.png)
 
